@@ -1,0 +1,9 @@
+systemback-install_pack-1.9.3_RUS+UKR.zip
+
+MD5: 0de05189a0e6e692b612bc8cc7d7aad6
+
+SHA1: 9193c36d3f98e126a4ee1ac6c4db7ae8ad0077b6
+
+SHA256: 786146b1984a47091d8f85538ce92fa9c97c2b2fb6bf3e86bfb28e4d1736622b
+
+CRC32: f01dd91f
