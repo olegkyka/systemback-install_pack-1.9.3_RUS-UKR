@@ -7,7 +7,7 @@
 - Ubuntu 18.04 (Bionic Beaver) x64. 
 
 А также Сборка содержит в себе улучшенные пакеты локализации для русского и украинского языков (без "кракозябр" 
-в меня установщика Systemback). Для правильной установки "Systemback" прочтите файл readme.txt. 
+в меню установщика Systemback). Для правильной установки "Systemback" прочтите файл readme.txt. 
 
 Автор пользовательской сборки "systemback-install_pack-1.9.3_RUS+UKR":  Андрей Овчаров (Datosh Code)  
 E-mail: datoshcode@gmail.com 
